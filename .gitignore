@@ -1,0 +1,21 @@
+# Local Kafka binaries (too large for GitHub)
+kafka.tgz
+kafka_2.13-3.7.1/
+
+# Python / tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.env
+.env.*
+
+# Cursor / IDE
+.cursor/
+
+# Generated doc artifacts from accidental npx-docker runs
+/doc/
+
+# Logs
+*.log

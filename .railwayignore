@@ -1,0 +1,9 @@
+kafka.tgz
+kafka_2.13-3.7.1/
+kafka-logs/
+__pycache__/
+*.pyc
+*.log
+*.html
+doc-*.js
+doc-*.css
